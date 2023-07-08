@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Таймер</title>
+    <link rel="stylesheet" href="src/styles.css">
+    <link rel="shortcut icon" href="src/images/bombtitle.png">
+</head>
+<body>
+<div class="timer-main">
+    <form id="timer-field">
+        <input type="number" id="timer-hours" class="tm" min="0" value="0" required="required" onkeypress="return false">
+        <span class="timer-dots">:</span>
+        <input type="number" id="timer-minutes" class="tm" min="0" value="0" required="required" max="59" onkeypress="return false">
+        <span class="timer-dots">:</span>
+        <input type="number" id="timer-seconds" class="tm" min="0" value="0" required="required" max="59" onkeypress="return false">
+        <input type="submit" id="submit" value="Запуск">
+    </form>
+    <div class="wait none">Таймер запущен</div>
+    <script src="src/scripts.js"></script>
+</div>
+</body>
+</html>

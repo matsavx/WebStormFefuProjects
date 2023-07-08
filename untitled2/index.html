@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // let p = new Promise(function(resolve, reject) {
+    //     setTimeout(()=> {
+    //         resolve({a:1})
+    //     }, 1000);
+    // });
+    // p.then(
+    //     function (data) {
+    //     console.log('success')
+    // },
+    //     function (err) {
+    //         console.log('error')
+    //
+    //     });
+    // console.log(p);
+
+    let p = new Promise(function (resolve) {
+        resolve(123);
+    });
+
+    p.then(function (data) {
+        console.log(1);
+        return new Promise(function (resolve) {
+            console.log(2);
+            resolve({data:data,data2: 321);
+        });
+    })
+    .then((data) => {
+        console.log(data.data,data.data2);
+    });
+    }
+</script>
+</body>
+</html>

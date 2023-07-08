@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f06430-e9fb-47ce-9259-5d0bcc4b4053" name="Default Changelist" comment="" />
+    <list default="true" id="c4f78f0e-40e6-485f-be83-bcffeb78dfc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../NPMProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NPMProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NPMProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NPMProject/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,38 +22,40 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1lyOKjC8MolgsOROMHS61Mj8ACK" />
+  <component name="ProjectId" id="1n5dmdcNJ9WgsMOFLjDPxB3mikG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../messenger" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51f06430-e9fb-47ce-9259-5d0bcc4b4053" name="Default Changelist" comment="" />
-      <created>1608565802877</created>
+      <changelist id="c4f78f0e-40e6-485f-be83-bcffeb78dfc5" name="Default Changelist" comment="" />
+      <created>1610684046336</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608565802877</updated>
-      <workItem from="1608565804379" duration="2118000" />
-      <workItem from="1610043594701" duration="34000" />
+      <updated>1610684046336</updated>
+      <workItem from="1610684047597" duration="11163000" />
+      <workItem from="1610710861016" duration="523000" />
+      <workItem from="1610711745666" duration="1279000" />
     </task>
     <servers />
   </component>
@@ -70,21 +75,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="0" key="#Deployment" timestamp="1608566090271">
+    <state x="233" y="0" key="#Deployment" timestamp="1610712002919">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1608566090271" />
-    <state x="354" y="119" key="#Node.js_and_NPM" timestamp="1608566734345">
+    <state x="233" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1610712002919" />
+    <state x="318" y="22" key="#Options" timestamp="1610710290726">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="354" y="119" key="#Node.js_and_NPM/0.0.1280.680@0.0.1280.680" timestamp="1608566734345" />
-    <state x="217" y="0" key="#SSH_Configurations" timestamp="1608566083769">
+    <state x="318" y="22" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1610710290726" />
+    <state x="217" y="0" key="#SSH_Configurations" timestamp="1610710233582">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="217" y="0" key="#SSH_Configurations/0.0.1280.680@0.0.1280.680" timestamp="1608566083769" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1610043621873">
+    <state x="217" y="0" key="#SSH_Configurations/0.0.1280.680@0.0.1280.680" timestamp="1610710233582" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1610711070433">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610043621873" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610711070433" />
   </component>
 </project>

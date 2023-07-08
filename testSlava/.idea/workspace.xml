@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f64fc3d0-b508-4f06-a55a-b6cc7486ec30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AjaxJSONproject/.idea/AjaxJSONproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyLabs/.idea/MyLabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyLabs/Pilots/.idea/Pilots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyLabs/WhackAMole/.idea/WhackAMole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pilots/.idea/Pilots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhackAMole/.idea/WhackAMole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhackV2/.idea/WhackV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/untitled6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NPMProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NPMProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NPMProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NPMProject/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20POVgjRb3oPV8VEFxXiEeThbGN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64fc3d0-b508-4f06-a55a-b6cc7486ec30" name="Default Changelist" comment="" />
+      <created>1635942783528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635942783528</updated>
+      <workItem from="1635942785027" duration="3091000" />
+      <workItem from="1636015078130" duration="2946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

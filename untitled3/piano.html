@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AJAX</title>
+</head>
+<body>
+
+<div onclick= "pageLoad('/blog.html')">blog</div>
+<div onclick= "pageLoad('/home.html')">home</div>
+<div id="page"></div>
+<script>
+
+
+function pageLoad2(url) {
+        fetch(url)
+            .then(res => res.text())
+            .then((text) => {
+                let page = document.getElementById('page');
+                page.innerHTML = text;
+            });
+}
+</script>
+</body>
+</html>

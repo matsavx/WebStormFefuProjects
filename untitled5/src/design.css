@@ -1,0 +1,170 @@
+/*расположение по размеру страницы*/
+body {
+    padding: 0;
+    margin: 0;
+}
+/*выравнивание страницы и header'а*/
+.header {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url("images/mainTheme.png") center no-repeat;
+    background-size: cover;
+}
+.inside_header {
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding-bottom: 400px;
+}
+/*положение картинки, прозрачный фон и время анимации*/
+.basketball {
+    position:absolute;
+    left: 100px;
+    background-color: rgba(0, 50, 50, 0);
+    transition: 2s;
+}
+/*расположение высплывающего окна, его стиль и анимация*/
+.info_basketball {
+    position:absolute;
+    background:rgba(255,140,0, 0.5);
+    padding: 3px;
+    opacity: 0;
+    transition: 2s;
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+    font-family: Calibri;
+    text-shadow: 1px 1px 0 black;
+}
+/*увеличение мяча*/
+.basketball:hover {
+    transform: scale(1.1);
+}
+/*анимация появления всплывающего окна*/
+.basketball:hover .info_basketball {
+    opacity: 1;
+    transition: 2s;
+}
+/*положение картинки, прозрачный фон и время анимации*/
+.food {
+    position:absolute;
+    left: 540px;
+    background-color: rgba(0, 50, 50, 0);
+    transition: 2s;
+}
+/*расположение высплывающего окна, его стиль и анимация*/
+.info_food {
+    position:absolute;
+    background:rgba(240,230,140, 0.5);
+    opacity: 0;
+    transition: 2s;
+    padding: 3px;
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+    font-family: Calibri;
+    text-shadow: 1px 1px 0 black;
+}
+/*увеличение еды*/
+.food:hover {
+    transform: scale(1.1);
+}
+/*анимация появления всплывающего окна*/
+.food:hover .info_food {
+    opacity: 1;
+    transition: 2s;
+}
+/*положение картинки, прозрачный фон и время анимации*/
+.sleep {
+    position:absolute;
+    left: 900px;
+    background-color: rgba(0, 50, 50, 0);
+    transition: 2s;
+}
+/*расположение высплывающего окна, его стиль и анимация*/
+.info_sleep {
+    position:absolute;
+    background:rgba(127,255,212, 0.5);
+    padding: 3px;
+    opacity: 0;
+    transition: 2s;
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+    font-family: Calibri;
+    text-shadow: 1px 1px 0 black;
+}
+/*увеличение кровати*/
+.sleep:hover {
+    transform: scale(1.1);
+}
+/*анимация появления всплывающего окна*/
+.sleep:hover .info_sleep {
+    opacity: 1;
+    transition: 2s;
+}
+/*расположение картинки*/
+.instagram {
+    position: absolute;
+    top: 450px;
+    left: 1175px;
+    transition: 1s;
+}
+/*расположение всплывающего текста, стиль и анимация*/
+.instagram_info {
+    opacity: 0;
+    transition: 1s;
+    position: fixed;
+    right: 50px;
+    bottom: 9px;
+    color: white;
+}
+/*увеличение картинки*/
+.instagram:hover {
+    transform: scale(1.3);
+}
+/*появление текста*/
+.instagram:hover .instagram_info {
+    opacity: 1;
+    transition: 1s;
+}
+/*расположение картинки*/
+.vk {
+    position: absolute;
+    top: 500px;
+    left: 1171px;
+    transition: 1s;
+}
+/*расположение всплывающего текста, стиль и анимация*/
+.vk_info {
+    opacity: 0;
+    transition: 1s;
+    position:fixed;
+    right: 50px;
+    bottom: 12px;
+    color: white;
+}
+/*увеличение картинки*/
+.vk:hover {
+    transform: scale(1.3);
+}
+/*появление текста*/
+.vk:hover .vk_info {
+    opacity: 1;
+    transition: 1s;
+}

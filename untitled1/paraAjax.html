@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AJAX</title>
+</head>
+<body>
+<script>
+    let xml = new XMLHttpRequest();
+    xml.open('GET', '/1.txt');
+    xml.onload = function () {
+        console.log(this.responseText);
+    };
+    xml.send();
+</script>
+</body>
+</html>

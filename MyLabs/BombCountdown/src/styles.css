@@ -1,0 +1,55 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background: url("images/bombback.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.none {
+    display: none;
+}
+.timer-dots {
+    font-family: ‘Raleway’,sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+#submit {
+    margin-top: 2vh;
+    border-radius: 5px;
+    border: none;
+    background-color: transparent;
+    font-family: ‘Raleway’,sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+#submit:hover {
+    background-color: white;
+}
+
+.tm {
+    width: 10%;
+    height: 10%;
+    border-radius: 5px;
+    font-family: ‘Raleway’,sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+.timer-main {
+    height: 100px;
+}
+.timer-main, .wait {
+    width: 40%;
+    margin-left: 30vw;
+    background-color: rgb(249,201,8);
+    margin-top: 5vh;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 20px black;
+}

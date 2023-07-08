@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Whack a mole</title>
+    <link rel = "stylesheet" href="src/styles.css">
+    <link rel = "shortcut icon" href="src/images/titleIcon.png">
+</head>
+<body>
+    <div class="game-main">
+        <div class="info">
+            <button class="play">
+                <img class="info-button" src="src/images/play.png" alt="Play">
+            </button>
+            <div id="points">0</div>
+        </div>
+
+        <table id="game-field">
+            <tr>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole1')" id="mole1" alt="Крот"></td>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole2')" id="mole2" alt="Крот"></td>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole3')" id="mole3" alt="Крот"></td>
+            </tr>
+            <tr>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole4')" id="mole4" alt="Крот"></td>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole5')" id="mole5" alt="Крот"></td>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole6')" id="mole6" alt="Крот"></td>
+            </tr>
+            <tr>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole7')" id="mole7" alt="Крот"></td>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole8')" id="mole8" alt="Крот"></td>
+                <td class="mole"><img src="src/images/mole.png" class="mole-img" onclick="deleteMole('mole9')" id="mole9" alt="Крот"></td>
+            </tr>
+        </table>
+
+        <div id="timer">
+            <span id="time">30</span>
+        </div>
+    </div>
+<script src="src/script.js"></script>
+</body>
+</html>

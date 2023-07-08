@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="42c784bb-ee37-444b-a8bf-d44c41fd4e4e" name="para" url="http://164.90.242.100/para">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="164.90.242.100" port="22" sshConfigId="0228c334-68a9-404c-be14-855cc6f7ff00" sshConfig="root@164.90.242.100:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

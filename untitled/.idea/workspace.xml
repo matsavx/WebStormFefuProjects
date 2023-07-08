@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98d0ef58-f188-485d-be65-58982d53cad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/WordList/WordList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaProjects/WordList2/WordList2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/Hesh_Lab/.idea/Hesh_Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/OlimpLab4/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/Polindrom/.idea/Polindrom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/delenie/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/delenie/.idea/delenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/fib — копия/.idea/fib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/smth/.idea/smth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/xan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/xan/.idea/xan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/xan/timetable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/стргенслав/.idea/стргенслав.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/фиб/.idea/фиб.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyClionProjects/фиб/Новая папка/.idea/Новая папка.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/Random.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/SortProject.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/SortProject_ru_RU.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/form.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/form.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/form.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/qcustomplot.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/qcustomplot.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/selecttypegeneration.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/selecttypegeneration.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/selecttypegeneration.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/sortbeginning.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/sortbeginning.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/sortbeginning.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/widget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/widget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortProject/SortProject/widget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Desktop/tdata/user_data/media_cache/0/A2/E0D891CE2C9D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Desktop/tdata/user_data/media_cache/0/AA/B952D195A6A0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Desktop/tdata/user_data/media_cache/0/B8/1DF854E002A8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Desktop/tdata/user_data/media_cache/0/B8/6877CDA4BE6E" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Desktop/tdata/user_data/media_cache/0/CD/19A3BA000239" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Desktop/tdata/user_data/media_cache/0/DC/FFBF16F25842" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Desktop/tdata/user_data/media_cache/0/E6/14AD6429F7B7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/1/1.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/1/1_ru_RU.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/1/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/1/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/1/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/2/2.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/2/2_ru_RU.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/2/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/2/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt projects/2/mainwindow.ui" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jJQ8m39vKBRzlcJ2RQXTWd0Qze" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98d0ef58-f188-485d-be65-58982d53cad3" name="Default Changelist" comment="" />
+      <created>1603519557919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603519557919</updated>
+      <workItem from="1603519559011" duration="619000" />
+      <workItem from="1604747716908" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1604747804892">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604747804892" />
+  </component>
+</project>

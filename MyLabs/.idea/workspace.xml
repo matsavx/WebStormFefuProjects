@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8228728a-7fd2-4b49-b7bc-e361bbd69b41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AjaxJSONproject/.idea/AjaxJSONproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MyLabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pilots/.idea/Pilots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhackAMole/.idea/WhackAMole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pilots/.idea/Pilots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhackAMole/.idea/WhackAMole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhackV2/.idea/WhackV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/untitled6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15tagsofme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/15tagsofme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messenger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/messenger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pianoAttempt/piano.html" beforeDir="false" afterPath="$PROJECT_DIR$/pianoAttempt/piano.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pianoAttempt/src/sounds/do.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NPMProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NPMProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NPMProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NPMProject/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1n6cFkb8EhbigAh5LfCIA179MAU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\myfiles\WebStormProjects\MyLabs\AjaxJsonProject\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8228728a-7fd2-4b49-b7bc-e361bbd69b41" name="Default Changelist" comment="" />
+      <created>1610713881617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610713881617</updated>
+      <workItem from="1610713883051" duration="20695000" />
+      <workItem from="1614351574459" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Deployment" timestamp="1614352226961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1614352226961" />
+    <state x="217" y="0" key="#SSH_Configurations" timestamp="1614351608370">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="217" y="0" key="#SSH_Configurations/0.0.1280.680@0.0.1280.680" timestamp="1614351608370" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1610769316135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610769316135" />
+  </component>
+</project>

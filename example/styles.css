@@ -1,0 +1,23 @@
+head, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.first:hover {
+    color: transparent;
+}
+.first {
+    color: red;
+}
+.second {
+    margin: 20px;
+    background: black;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: red;
+}

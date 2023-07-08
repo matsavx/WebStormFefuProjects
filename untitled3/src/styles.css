@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url(images/background.jpg) center no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+h1 {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    color: white;
+    padding-bottom: 400px;
+    font-family: cursive;
+    text-shadow: 2px 2px 2px black;
+}
+.hood1 {
+    position:absolute;
+    background: rgb(173,36,23);
+    padding-left: 40px;
+    padding-right: 600px;
+    padding-top: 300px;
+    left: 295px;
+    bottom: 95px;
+    border-width: 5px;
+    border-style: solid;
+}
+.c1 {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 300px;
+    bottom: 100px;
+}
+.c1:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.c1:active {
+    transform: translate(0,10px);
+}
+.d {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 380px;
+    bottom: 100px;
+}
+.d:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.d:active {
+    transform: translate(0,10px);
+}
+.e {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 460px;
+    bottom: 100px;
+}
+.e:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.e:active {
+    transform: translate(0,10px);
+}
+.f {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 540px;
+    bottom: 100px;
+}
+.f:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.f:active {
+    transform: translate(0,10px);
+}
+.g {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 620px;
+    bottom: 100px;
+}
+.g:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.g:active {
+    transform: translate(0,10px);
+}
+.a {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 700px;
+    bottom: 100px;
+}
+.a:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.a:active {
+    transform: translate(0,10px);
+}
+.b {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 780px;
+    bottom: 100px;
+}
+.b:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.b:active {
+    transform: translate(0,10px);
+}
+.c2 {
+    outline: 2px solid black;
+    position:absolute;
+    background: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 300px;
+    left: 860px;
+    bottom: 100px;
+}
+.c2:hover {
+    background: rgba(169, 169, 169, 1);
+}
+.c2:active {
+    transform: translate(0,10px);
+}
+.c1_sharp {
+    position:absolute;
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 180px;
+    bottom: 220px;
+    left: 360px;
+}
+.c1_sharp:hover {
+    background: rgba(50, 50, 50, 1);
+}
+.c1_sharp:active {
+    transform: translate(0,-20px);
+}
+.d_sharp {
+    position:absolute;
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 180px;
+    bottom: 220px;
+    left: 440px;
+}
+.d_sharp:hover {
+    background: rgba(50, 50, 50, 1);
+}
+.d_sharp:active {
+    transform: translate(0,-20px);
+}
+.f_sharp {
+    position:absolute;
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 180px;
+    bottom: 220px;
+    left: 600px;
+}
+.f_sharp:hover {
+    background: rgba(50, 50, 50, 1);
+}
+.f_sharp:active {
+    transform: translate(0,-20px);
+}
+.g_sharp {
+    position:absolute;
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 180px;
+    bottom: 220px;
+    left: 680px;
+}
+.g_sharp:hover {
+    background: rgba(50, 50, 50, 1);
+}
+.g_sharp:active {
+    transform: translate(0,-20px);
+}
+.a_sharp {
+    position:absolute;
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 180px;
+    bottom: 220px;
+    left: 760px;
+}
+.a_sharp:hover {
+    background: rgba(50, 50, 50, 1);
+}
+.a_sharp:active {
+    transform: translate(0,-20px);
+}
